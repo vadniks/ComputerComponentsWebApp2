@@ -28,12 +28,14 @@ it's basically used for creating UI.
 - Database administration
 - Logging in, out and registration
 - User sessions via encrypted cookies
+- Order history tracking
+- Server files viewing, uploading and deleting
 
 ## Screenshots
 
-![Main page without selections](screenshots/a.png "Main page without selections")
+![Main page with selections](screenshots/a.png "Main page with selections")
 ![Login page](screenshots/b.png "Login page")
-![Main page with selections](screenshots/c.png "Main page with selections")
+![Order history dialog](screenshots/c.png "Order history dialog")
 ![Submit order](screenshots/d.png "Submit order")
 ![Selection page](screenshots/e.png "Selection page")
 ![Search component](screenshots/f.png "Search component")
@@ -47,6 +49,9 @@ it's basically used for creating UI.
 ![Users DB table administration](screenshots/n.png "Users DB table administration")
 ![Sessions DB table administration](screenshots/o.png "Sessions DB table administration")
 ![The whole dart code translated into JavaScript with optimization, hardening and obfuscation](screenshots/p.png "The whole dart code translated into JavaScript with optimization, hardening and obfuscation")
+![Viewing files which are currently exist in the certain folder on the server](screenshots/q.png "Viewing files which are currently exist in the certain folder on the server")
+![File upload form](screenshots/r.png "File upload form")
+![File uploading](screenshots/s.png "File uploading")
 
 ## Build
 
